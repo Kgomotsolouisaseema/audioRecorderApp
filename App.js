@@ -5,7 +5,7 @@ import AudioRecorder from './components/AudioRecorder';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Main App Component</Text>
+      
       <AudioRecorder />
    
       <StatusBar style="auto" />
